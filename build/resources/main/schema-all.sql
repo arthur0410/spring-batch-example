@@ -1,0 +1,5 @@
+DROP TABLE people IF EXISTS;
+
+CREATE TABLE propostas  (
+    id_proposta BIGINT IDENTITY NOT NULL PRIMARY KEY
+);
